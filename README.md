@@ -124,15 +124,7 @@ vishnu = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishnuSuryaTejaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
-
-</div>
-
----
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
