@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ═══════════════════ BADGES ═══════════════════ -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishnu-surya-teja-veeraganti-1b172827a">
+<a href="https://linkedin.com/in/vishnu-surya-teja-veeraganti-1b172827a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vishnusuryatejavst@gmail.com">
